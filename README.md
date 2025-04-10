@@ -1,66 +1,65 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# CANELITES ENFURECIDAS 2025
+Uma interface simples e responsiva para autenticação de usuários, com campos de e-mail/usuário e senha, validação básica e um design moderno. Ideal para ser integrada a sistemas web ou apps. Desenvolvida com HTML, CSS e JavaScript.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![Logo](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-d484-61f7-a48d-2bc5a3f83e8d/raw?se=2025-04-10T12%3A03%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=6e4a586a-9364-5aa2-9de4-f18ef65f372a&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T02%3A05%3A36Z&ske=2025-04-11T02%3A05%3A36Z&sks=b&skv=2024-08-04&sig=Crj0CkVNgUFP2Jowb79R%2BGGrpjx8173VaGJEIaSRFWk%3D)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Stack utilizada
 
-## Learning Laravel
+**Front-end:** CSS, JavaScript, HTML
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+**Back-end:** CSS, JavaScript, HTML
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Instalação
 
-## Laravel Sponsors
+Instale meu projeto 
+https://github.com/lucaseduarrdo/app_3a
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+    
+## Demonstração
 
-### Premium Partners
+![Demonstration](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-4dc0-61f7-959e-b27a83a33e22/raw?se=2025-04-10T12%3A36%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=d343b934-8671-5501-9d85-45cf90b5d09a&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-09T20%3A52%3A50Z&ske=2025-04-10T20%3A52%3A50Z&sks=b&skv=2024-08-04&sig=Jl78b0m8aITYB/q/rSEO5B/rkuDCmHD%2BOub6iaGQfRk%3D)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
-## Contributing
+## Funcionalidades
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Campo de e-mail ou nome de usuário
 
-## Code of Conduct
+- Campo de senha
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Validação de campos
 
-## Security Vulnerabilities
+- Botão de login
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Mensagens de erro e feedback
 
-## License
+- Design responsivo
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Lembrar-me (opcional)
+
+- Links extras
+
+## Aprendizados
+
+Durante o desenvolvimento dessa tela de login, aprendi a estruturar uma interface funcional e responsiva utilizando HTML e CSS. Pratiquei conceitos importantes como organização de elementos com Flexbox, criação de formulários e estilização com foco em usabilidade. Além disso, aprofundei meus conhecimentos em JavaScript para implementar validações básicas, como verificar se os campos foram preenchidos antes do envio. Esse projeto também me ajudou a entender melhor a separação entre front-end e back-end, além de reforçar boas práticas de design e acessibilidade.
+
+
+## Autores
+
+- [@lucaseduarrdo](https://www.github.com/lucaseduarrdo)
+- [@vitorhugo590](https://www.github.com/vitorhugo590)
+- [@luis-neto](https://www.github.com/luis-neto)
+- [@joaolucasmoreira09](https://www.github.com/joaolucasmoreira09)
+
+
+## Contribuindo
+
+Contribuições são sempre bem-vindas!
+
+Veja nosso projeto para saber como começar.
+
+Por favor, siga o `código de conduta` desse projeto.
+
